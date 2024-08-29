@@ -16,6 +16,8 @@ tekst = "15.22"
 myfloat = float(tekst)
 print(myfloat)
 
+print(9)
+
 
 # list to tuple
 
@@ -38,3 +40,5 @@ liste = [1, 2, 3, 4]
 my_set  = set(liste)
 print(my_set)
 type(my_set)
+
+print(9)
