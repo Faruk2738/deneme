@@ -3,6 +3,21 @@
 
 ##  Veri degisimleri ##
 
+
+# integer to float
+
+my_int = 5
+my_float = float(my_int)
+print(my_float)
+type(my_float)
+
+
+# float to integer
+_float = 5.88
+_int = int(_float)
+print(_int)
+
+
 #  integer to string
 
 x = 42
@@ -16,7 +31,6 @@ tekst = "15.22"
 myfloat = float(tekst)
 print(myfloat)
 
-print(9)
 
 
 # list to tuple
@@ -41,4 +55,3 @@ my_set  = set(liste)
 print(my_set)
 type(my_set)
 
-print(9)
